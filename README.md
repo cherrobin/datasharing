@@ -1,3 +1,5 @@
+this is my forked version for coursera
+
 How to share data with a statistician
 ===========
 
